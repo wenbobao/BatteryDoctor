@@ -2,7 +2,7 @@
 
 BatteryDoctor is an open source app .
 
-![alt text](https://github.com/wenbobao/BatteryDoctor/tree/master/screenshots/home.png "")
+![alt text](https://github.com/wenbobao/BatteryDoctor/blob/master/screenshots/home.png "")
 
 ##Requirements
 
